@@ -4,3 +4,7 @@ It contains the codes for the inital seciton of the project. Tutorials from the 
 ## code1 has the inital codes from the tutorial. 
 F in OUtput is for  filtered data's plot. 
 ## code 2 has the syntax for differnece in noise redution and more . 
+
+2pipeline has all the codes (including the inital one) tha was used to compare the pipelines 
+
+## updated pipeline has teh final one. 
