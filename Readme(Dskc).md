@@ -8,3 +8,5 @@ F in OUtput is for  filtered data's plot.
 2pipeline has all the codes (including the inital one) tha was used to compare the pipelines 
 
 ## updated pipeline has teh final one. 
+
+so the file name 14_UP_pipelinev4.5 has some of the plots that are comparing the values amoung the same SNR portions (IMP)
